@@ -46,19 +46,14 @@ else {
     yeni->next=ilk;
     ilk=yeni;
 }
-
 }
-
 
 int main()
 {
-
     SonaEkle(10);
     SonaEkle(5);
     BasaEkle(12);
-
     Listele();
-
 
     return 0;
 }
