@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688901878 source:c:\users\sezer\desktop\arge\c++\data_structures_and_algorithm\day33\main.cpp
+	<iostream>
+	<string.h>
+
