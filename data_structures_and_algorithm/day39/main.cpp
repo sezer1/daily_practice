@@ -43,6 +43,14 @@ void inorder(AGACDUGUMPTR *agacptr){
     }
 }
 
+void preorder(AGACDUGUMPTR *agacptr){
+ if(agacptr !=NULL){
+    preorder(agacptr->sol);
+    preorder(agacptr->sol);
+    printf("3d",agacptr->data);
+}
+}
+
 
 
 int main()
